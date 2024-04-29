@@ -1,14 +1,17 @@
 Introduction
+
 Airbnb.com is a popular home-sharing platform where homeowners can rent out full houses, apartments, bedrooms, or even beds to travelers. Hosts on Airbnb make money by renting out their properties, while renters provide feedback by posting public ratings and comments regarding their stay.
 
 The goal of this data mining project is to develop a predictive model to forecast the likelihood of a listing on Airbnb.com having a high booking rate. By analyzing various attributes of the property listings, such as location, amenities, pricing, and host details, the model aims to provide numerical predictions for the probability that a listing will have a high booking rate. This predictive model can be a valuable tool for property listers to assess which attributes are most sought-after by customers, enabling them to optimize their listings and potentially increase revenue from their properties.
 
 Data Availability
+
 Due to the large size of the data files, they are not hosted in this repository. However, the data files can be accessed from the following location:
 
-Data Files
+Data Files:
 
 Project Overview
+
 This project is implemented using R programming language. The key steps involved in the project include:
 
 Data Preprocessing: Cleaning and preparing the raw Airbnb data for analysis, including handling missing values, encoding categorical variables, and scaling numerical features.
